@@ -12,7 +12,7 @@ the standard the work is held to.
 ## The doors
 
 - **The store (singles, albums, books):** https://payhip.com/stillstandingenterprises
-- **Ministry & mission hub:** https://stillstandingchristianity.com
+- **Ministry & mission hub:** https://stillstanding-inc.github.io/stillstandingchristianity/
 - **Media & broadcast vault:** https://stillstandingproductions.link
 
 ## Recent singles ($1 on Payhip)
